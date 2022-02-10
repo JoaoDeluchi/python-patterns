@@ -16,8 +16,20 @@
 
 ### Often just what you need
 
-## Classic Factory Pattern - one or more
+# Classic Factory Pattern - one or more
 
-### must get an instance of the factory then Make the object
+## must get an instance of the factory then Make the object
 
-### Most Flexible
+## Most Flexible
+
+## Great when you dont know which concrete classes you'll need
+
+# Abstract Factory
+
+## Encapsulates object instantiation
+
+## Supports dependency inversion
+
+## Clients can write to an abstraction
+
+## Useful when you have families of objects
