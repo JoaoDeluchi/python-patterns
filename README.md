@@ -51,3 +51,21 @@
 ## builder adds parts to the product
 
 ## Client Receives the product from builder
+
+# Prototype
+
+## Decrease Number of Classes
+
+## Compete with Abstract Factory
+
+## Implementations
+
+### Shallow cloning
+
+### Deep cloning
+
+### Prototype Manager
+
+## Use deep Cloning carefully
+
+## Custom cloning
