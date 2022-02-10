@@ -33,3 +33,21 @@
 ## Clients can write to an abstraction
 
 ## Useful when you have families of objects
+
+# Builder
+
+## Separates the "HOW" from the "WHAT"
+
+## Assembly separate from components
+
+## Encapsulates what varies
+
+## Permits different representation
+
+## Client creates director object
+
+## Director uses concrete builder
+
+## builder adds parts to the product
+
+## Client Receives the product from builder
