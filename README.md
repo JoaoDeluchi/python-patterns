@@ -87,3 +87,27 @@
 ## Can also use a python module
 
 ## use sparingly - anti-pattern
+
+# Adapter
+
+## Adapt an interface to the one you need
+
+## Create reusable code
+
+## New unrelated or unforeseen interfaces
+
+## Obj Adapter
+
+### Composition over inheritance
+
+### Delegate to the adaptee
+
+### Works with all adaptee subclasses
+
+## Class Adapter
+
+### Subclassing
+
+### Override adaptee methods
+
+### Committed to one adaptee subclass
