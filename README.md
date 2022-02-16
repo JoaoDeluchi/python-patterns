@@ -69,3 +69,21 @@
 ## Use deep Cloning carefully
 
 ## Custom cloning
+
+# Singleton
+
+## Controlled access to a single instance
+
+## Reduces the global namespace
+
+## Subclassible for extended user
+
+## Variable number of instances on Base class and metaclass Variants
+
+## More flexible than a static class
+
+## MonoState shares all state
+
+## Can also use a python module
+
+## use sparingly - anti-pattern
