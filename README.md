@@ -111,3 +111,9 @@
 ### Override adaptee methods
 
 ### Committed to one adaptee subclass
+
+# Bridge
+
+## Solve exponential class growth problem using composition
+
+## Extensible by adding "spans"
