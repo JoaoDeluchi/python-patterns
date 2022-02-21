@@ -117,3 +117,23 @@
 ## Solve exponential class growth problem using composition
 
 ## Extensible by adding "spans"
+
+# Composite
+
+## Single interface to tree structure
+
+## uniform access to subtrees and leaf nodes
+
+## No need to do run time type checking
+
+## Easy to add new kinds of components
+
+## Follows Open/Closed principle
+
+## Violates the single responsability principle
+
+## Use when your data naturally fits a tree-like structure
+
+## children can maintain parent references
+
+## Possible to share components
