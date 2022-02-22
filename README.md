@@ -191,3 +191,15 @@
 ### Smart proxy can add housekeeping
 
 #### Locking
+
+# Strategy
+
+## Also know as the Policy Pattern
+
+## No SOLID violations
+
+## Can be use function or lambda instead class implementation
+
+## Encapsulate algorithms
+
+## resolve sequences of conditional problem
