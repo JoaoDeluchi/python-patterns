@@ -171,3 +171,23 @@
 ## Single instance are no longer independent
 
 ## All instances controlled the same
+
+# Proxy
+
+## Keeps a reference to the subject and expose an identical interface
+
+## Control access to the real object
+
+## Implementations:
+
+### Protection Proxy to controls access
+
+### Virtual Proxy to lazy instantiation or cache results
+
+#### @functools.lru_cache -- cache decorator
+
+### Remote proxy to hide communication details
+
+### Smart proxy can add housekeeping
+
+#### Locking
