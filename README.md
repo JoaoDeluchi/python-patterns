@@ -137,3 +137,37 @@
 ## children can maintain parent references
 
 ## Possible to share components
+
+# Decorator Pattern
+
+## More flaxible than static inheritance
+
+## respect KISS principle
+
+## use when you want add new functionality to existing objects
+
+## Better than many subclasses
+
+## Better than many properties
+
+## Consider look for Factory, Builder or Prototype
+
+# Façade
+
+## Reduces complexity
+
+## Unified interface to a set of interfaces making easier to use
+
+## Shields Clients from subsystem details
+
+## Reduces the objects to handle
+
+# Flyweight
+
+## Centralize state for many objects
+
+## Reduce required object instances
+
+## Single instance are no longer independent
+
+## All instances controlled the same
