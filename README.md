@@ -202,4 +202,24 @@
 
 ## Encapsulate algorithms
 
-## resolve sequences of conditional problem
+## resolve sequences of conditional(if, elif) problem
+
+# Command
+
+## Also known as Action Pattern and Transaction Pattern
+
+## Encapsulate a request as an object
+
+## Queues and log operations
+
+## Great way to encapsulate behavior
+
+## Separate command logic from the client
+
+## Usefull on Command line programs and to build menus
+
+## Easy to add additional capabilities like:
+
+### Validation
+
+### Undo
