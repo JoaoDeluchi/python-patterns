@@ -223,3 +223,35 @@
 ### Validation
 
 ### Undo
+
+# State
+
+## Encapsulates state-specific behavior
+
+## Distributes behavior across state classes
+
+## Make transitions explicit
+
+## Flexible transition definitons
+
+## Can create states at transition time
+
+## When use:
+
+### When objects behavior depends on states
+
+### Similar in some ways to Strategy
+
+# Observer
+
+## Define a one-to-many relationship
+
+## Notify the many when the one changes
+
+## MVC pattern:
+
+### Model = subject; View= Observer;
+
+# Visitor
+
+## Add new abilities to an object structure
