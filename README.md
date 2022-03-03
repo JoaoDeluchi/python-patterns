@@ -265,3 +265,9 @@
 ## Breaks encapsulation
 
 ## Class decorator can replace visitors
+
+# Chain Of Responsibility
+
+## Decouple Requests from handlers
+
+## Let multiple Handlers see each Request
