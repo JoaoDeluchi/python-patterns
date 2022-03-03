@@ -255,3 +255,13 @@
 # Visitor
 
 ## Add new abilities to an object structure
+
+## Works best when the data model is static or changes rarely
+
+## Works across class hierarchies
+
+## Accumulate state
+
+## Breaks encapsulation
+
+## Class decorator can replace visitors
