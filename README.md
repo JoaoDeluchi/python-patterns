@@ -303,3 +303,13 @@
 ## Simplifies the Originator class
 
 ## Easy to implement state restoration
+
+# Null
+
+## Proveides a default object need do nothing
+
+## Eliminate tests for None
+
+## Clients can just use the object returned
+
+## useful for functions, iterator, generators
