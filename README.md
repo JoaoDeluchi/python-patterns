@@ -347,3 +347,21 @@
 ## Collection implementation can vary
 
 ## use to preserve encapsulation and itarate over a collection
+
+# Interpreter
+
+## ideal for scripting languages
+
+## Related Patterns
+
+### Composite
+
+### Flyweight
+
+### Visitor
+
+### Iterator
+
+## Easy to extend
+
+## Easy to implement
