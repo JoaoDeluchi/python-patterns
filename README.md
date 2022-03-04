@@ -335,3 +335,15 @@
 ## Promotes code reuse
 
 ## Can work with Strategy pattern
+
+# Iterator
+
+## Adds new abilities to a collection
+
+## Iterate over the elements
+
+## Preserver Encapsulation
+
+## Collection implementation can vary
+
+## use to preserve encapsulation and itarate over a collection
