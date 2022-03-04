@@ -306,10 +306,32 @@
 
 # Null
 
-## Proveides a default object need do nothing
+## Provides a default object need do nothing
 
 ## Eliminate tests for None
 
 ## Clients can just use the object returned
 
 ## useful for functions, iterator, generators
+
+# Template
+
+## Defines de skeleton of an algorithm
+
+### Abstract methods
+
+### Concrete Methods
+
+### Hooks
+
+## Subclasses can redefine steps
+
+## Reduces code duplication (DRY)
+
+## Operations can be in the abstract class
+
+## Hook operations can inject special logic
+
+## Promotes code reuse
+
+## Can work with Strategy pattern
