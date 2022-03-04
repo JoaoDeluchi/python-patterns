@@ -271,3 +271,35 @@
 ## Decouple Requests from handlers
 
 ## Let multiple Handlers see each Request
+
+# Mediator
+
+## Benefits
+
+### Reduces need for subclassing
+
+### Increases reusability by decoupling
+
+### Simplifies maintenance
+
+## Drawbacks
+
+### Can become overly complex
+
+### Centralizes control
+
+## often used in GUI applications
+
+# Memento
+
+## Restore the obj to a previous snapshot
+
+## Maintain encapsulation
+
+## Sometimes called the Token Pattern
+
+## Preserves encapsulation
+
+## Simplifies the Originator class
+
+## Easy to implement state restoration
